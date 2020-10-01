@@ -1,11 +1,16 @@
 .hide {
   display: none;
+  background-color: indigo;
 }
 .left {
   float: left;
+  color: red;
+  font-family: cursive;
 }
 .right {
   float: right;
+  color: red;
+  font-family: cursive;
 }
 .clear {
   clear: both;
@@ -13,4 +18,5 @@
 #reset-container,
 h1 {
   text-align: center;
+  color: green;
 }

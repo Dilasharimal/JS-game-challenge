@@ -38,7 +38,3 @@ resetButton.addEventListener("click", function () {
   TeamOneGoals.innerHTML = 0;
   TeamTwoGoals.innerHTML = 0;
 });
-let audio = document.querySelector("#my_audio");
-window.onload = function () {
-  document.getElementById("my_audio").play;
-};
